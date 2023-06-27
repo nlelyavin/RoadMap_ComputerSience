@@ -24,6 +24,7 @@
    * Основанные на количестве уровней:
      1. Complete BT. 
         1. Одинаковая глубина листьев, кроме последнего![img.png](docs/CompleteBT.png)
+        2. Не полное![img.png](docs/NotCompleteBT.png)
      2. Perfect BT. 
         1. Одинаковая глубина, одинаковое кол-во дочерних элементов у всех элементов.![img.png](docs/PerfectBT.png)
      3. Balanced BT. 
