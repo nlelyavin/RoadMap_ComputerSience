@@ -39,7 +39,7 @@ array_1.index(1)  # -> 0
 # sort
 array_1.sort(key=lambda x: x, reverse=True)  # -> None. [2, 1]
 
-# sort
+# copy
 array_3 = array_1.copy()  # -> [2, 1]
 array_4 = array_1[:]
 
