@@ -25,3 +25,9 @@ https://www.youtube.com/watch?v=S2W3SXGPVyU
 2. Направо 
 3. В середину \
 ![img.png](source/post_order.png)
+
+
+## Алгоритм поиска в ширину breadth-first search (BFS)
+https://www.youtube.com/watch?v=HZ5YTanv5QE
+
+![img.png](source/BFS.png)
