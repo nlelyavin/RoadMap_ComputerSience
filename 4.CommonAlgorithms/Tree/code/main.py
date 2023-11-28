@@ -1,6 +1,6 @@
-from in_order import InOrder
-from pre_order import PreOrder
-from post_order import PostOrder
+from orders.in_order import InOrder
+from orders.pre_order import PreOrder
+from orders.post_order import PostOrder
 from node import Node
 
 
